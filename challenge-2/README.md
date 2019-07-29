@@ -84,3 +84,5 @@ Resultado esperado:
 ```
 
 É isso meus jovens, esses sãos os desafios da semana 2, um abraço e até a próóóóóxima.
+
+by [Roberto Umbelino](https://github.com/robertoumbelino)
