@@ -2,4 +2,4 @@
 
 Toda semana um novo desafio. 😀
 
-Desafio da semana atual: Challenge 2
+Desafio da semana atual: Challenge 3
