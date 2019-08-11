@@ -1,4 +1,4 @@
-# Challenge 3 - FW7
+# Challenge 4 - FW7
 
 **Bom dia família!** 👊 Segue o quarto FW7 _challenge_. Nessa semana, o desafio será um pouco diferente... Iremos simular um fluxo de aplicação de descontos e os valores totais resultantes.
 
