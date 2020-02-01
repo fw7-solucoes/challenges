@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 76 76" width="76" height="76">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-1275 -320L645 -320L645 880L-1275 880Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+		.shp1 { fill: #f14336 } 
+	</style>
+	<g id="Sign_ip ui" clip-path="url(#cp1)">
+		<g id="Group 725">
+			<path id="Ellipse 591" class="shp0" d="M38 68C21.41 68 8 54.59 8 38C8 21.41 21.41 8 38 8C54.59 8 68 21.41 68 38C68 54.59 54.59 68 38 68Z" />
+			<g id="google-plus">
+				<g id="Group 365">
+					<g id="Group 364">
+						<path id="Path 557" class="shp1" d="M50.3 36.78L38.94 36.78L38.94 40.56L45.87 40.56C44.83 43.85 41.76 46.24 38.13 46.24C33.65 46.24 30.02 42.61 30.02 38.13C30.02 33.65 33.65 30.02 38.13 30.02C40.38 30.02 42.43 30.94 43.9 32.43L46.64 29.44C44.45 27.29 41.44 25.96 38.13 25.96C31.41 25.96 25.96 31.41 25.96 38.13C25.96 44.85 31.41 50.3 38.13 50.3C44.02 50.3 49.17 46.12 50.3 40.56L50.3 36.78L50.3 36.78L50.3 36.78Z" />
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

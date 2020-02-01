@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 878 346" width="878" height="346">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-191 -700L1729 -700L1729 500L-191 500Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #5537cd } 
+	</style>
+	<g id="Sign_ip ui" clip-path="url(#cp1)">
+		<g id="Group 750">
+			<g id="Group 746">
+				<path id="Fill 1" class="shp0" d="M0.99 345.51C0.99 345.51 29.79 224.45 232.66 224.45C321.28 224.45 456.05 246.16 626.64 88.72C752.15 -27.1 877.75 4.11 877.75 4.11L877.75 345.51L0.99 345.51Z" />
+			</g>
+		</g>
+	</g>
+</svg>

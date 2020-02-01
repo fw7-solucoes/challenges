@@ -1,5 +1,10 @@
 # Challenges - FW7
 
-Toda semana um novo desafio. 😀
+O __FW7 challenges__ foi uma iniciativa criada pela equipe de desenvolvimento da FW7 com a finalidade de elevar o nível técnico de todos os evolvidos.
 
-Desafio da semana atual: Challenge 3
+## Regras
+
+- O _dev_ que não participar do __challenger__ terá que pegar um salgadinho pra a galera 😜
+
+## Desafio atual
+[Challenge 5](./challenge-5/README.md)
