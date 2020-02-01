@@ -4,7 +4,7 @@ O __FW7 challenges__ foi uma iniciativa criada pela equipe de desenvolvimento da
 
 ## Regras
 
-- O _dev_ que não participar do __challenger__ terá que pegar um salgadinho pra a galera 😜
+- O _dev_ que não participar do __challenger__ terá que pegar um salgadinho pra galera 😜
 
 ## Desafio atual
 [Challenge 5](./challenge-5/README.md)
