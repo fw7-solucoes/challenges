@@ -49,6 +49,14 @@ Para esse **challenge** vamos criar uma interface de _404 page not found_, ou se
 
 ---
 
+## 🤯 Solução dos devs
+
+😎 [Pablo Danilo](https://github.com/Pablo75321/UI-s/tree/master/created_404_error)
+
+😎 [Roberto Umbelino](https://github.com/robertoumbelino/ui/tree/master/%233)
+
+---
+
 É galerisss chegamos ao final de mais um desafio, fico no aguardo e ansioso para ver as vossas soluções.
 
 Até a próxima semana, beijuuu. 😜
