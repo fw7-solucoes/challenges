@@ -52,7 +52,11 @@ Para esse **challenge** vamos criar uma _interface_ de _404 page not found_, ou 
 
 ## 🤯 Solução dos devs
 
-Waiting...
+😎 [Pablo Danilo](https://github.com/Pablo75321/UI-s/tree/master/created_404_error_2)
+
+😎 [Roberto Umbelino](https://github.com/robertoumbelino/ui/tree/master/%234)
+
+😎 [Vinicius Axt](https://github.com/viniaxt/UI/tree/master/challenge-7)
 
 ---
 
