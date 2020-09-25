@@ -6,7 +6,7 @@ Sem mais delongas, bora codar 😎
 
 ## Informações úteis
 
-- Lembrando que deve ser criado uma **feat** com o nome do **dev** que estiver solucionando os desafios e usar um **--** para informar qual a numeração do desafio, Ex: **feat/roberto--2**.
+- Cada participante irá fazer a sua versão e publicar em seu _github_.
 
 - Deverá ser usado a base de dados `db/index.js` para solucionar os desafios
 

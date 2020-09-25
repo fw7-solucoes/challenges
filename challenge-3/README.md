@@ -6,8 +6,7 @@ bora DALEE 🤟
 
 ## Informações úteis
 
-- Lembrando que a partir de agora todos os desafios serão realizados em uma única **feat** por **dev**, então só é necessário criar uma _branch_.
-  Ex: **feat/roberto**
+- Cada participante irá fazer a sua versão e publicar em seu _github_.
 
 - Deverá ser usado as bases de dados `db/index.js` para solucionar os desafios, **lembrando que nesses desafios serão necessários importar diferentes bases**
 
