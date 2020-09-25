@@ -52,7 +52,9 @@ Bora _codar_ essa _interface_ que está mumuzinho. 🐮🥛
 
 ## 🤯 Solução dos devs
 
-Waiting...
+😎 [Pablo Danilo](https://github.com/Pablo75321/UI-s/tree/master/created_music_event_interface)
+
+😎 [Roberto Umbelino](https://github.com/robertoumbelino/ui/tree/master/%235)
 
 ---
 
