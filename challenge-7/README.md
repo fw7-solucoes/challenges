@@ -58,6 +58,8 @@ Para esse **challenge** vamos criar uma _interface_ de _404 page not found_, ou 
 
 😎 [Vinicius Axt](https://github.com/viniaxt/UI/tree/master/challenge-7)
 
+😎 [Anderson Espindola](https://github.com/andersonespindola/FW7_Challenges/tree/master/challenger-7)
+
 ---
 
 Ao som de [Kick Out the Windows](https://open.spotify.com/track/6Q04NQKyB5x3Ge5TRyfZT1?si=0foHwr9LSUCMwEOYo0Akvg) eu finalizo esse **penúltimo** desafio do mês, espero que vocês tenham gostado do que vamos fazer. 🙈

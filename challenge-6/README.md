@@ -55,6 +55,8 @@ Para esse **challenge** vamos criar uma interface de _404 page not found_, ou se
 
 😎 [Roberto Umbelino](https://github.com/robertoumbelino/ui/tree/master/%233)
 
+😎 [Anderson Espindola](https://github.com/andersonespindola/FW7_Challenges/tree/master/challenger-6)
+
 ---
 
 É galerisss chegamos ao final de mais um desafio, fico no aguardo e ansioso para ver as vossas soluções.

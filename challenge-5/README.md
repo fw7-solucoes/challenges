@@ -50,6 +50,8 @@ Poixxx então, será necessário realizar a sua própria versão dessa _interfac
 
 😎 [Roberto Umbelino](https://github.com/robertoumbelino/ui/tree/master/%232)
 
+😎 [Anderson Espindola](https://github.com/andersonespindola/FW7_Challenges/tree/master/challenger-5)
+
 ---
 
 Era isso aí meus queridos, esse é o **challenge** 5 da FW7, agora é só por a mão na massa e dar vida a _interface_. Um abraço e até a próxima. ✌
