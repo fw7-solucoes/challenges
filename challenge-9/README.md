@@ -44,7 +44,7 @@ O uso é bem simples, o usuário irá escolher a quantidade de caracteres que el
 É isso ae meu povo, esse é desafio delicinha que vamos fazer. 🤩
 
 ✅ CA 
-- Deve ser possível escolher a quantidade de caracteres a serem gerados.
+- Deve ser possível escolher a quantidade de caracteres a serem gerados. _(4 - 32)_
 - Deve ser possível permitir ou não letrar maiúsculas. _(A, B, C...)_
 - Deve ser possível permitir ou não números. _(1, 2, 3...)_
 - Deve ser possível permitir ou não símbolos. _(!, @, #...)_
