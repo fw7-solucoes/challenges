@@ -1,4 +1,8 @@
-# Challenges - FW7
+<p align="center">
+  <img alt="Challenges - FW7" width="120" title="Challenges - FW7" src=".github/logo.png" />
+</p>
+
+<h1 align="center">Challenges - FW7</h1>
 
 O **FW7 challenges** foi uma iniciativa criada pela equipe de desenvolvimento da FW7 com a finalidade de elevar o nível técnico de todos os evolvidos.
 
@@ -8,4 +12,4 @@ O **FW7 challenges** foi uma iniciativa criada pela equipe de desenvolvimento da
 
 ## Desafio atual
 
-[Challenge 8](./challenge-8)
+[Challenge 9](./challenge-9)
