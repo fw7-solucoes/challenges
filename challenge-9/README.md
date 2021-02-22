@@ -64,7 +64,9 @@ O uso é bem simples, o usuário irá escolher a quantidade de caracteres que el
 
 ## 🤯 Solução dos devs
 
-Aguardando...
+😎 [Roberto Umbelino](https://github.com/robertoumbelino/generate-password) - [Preview](https://password-generator-ui.netlify.app/)
+
+😎 [Antonio Marco da Silva](https://github.com/antomarsi/challenges/tree/feat/antonio/challenge-9) - [Preview](https://elegant-ardinghelli-de73fe.netlify.app/)
 
 ---
 
