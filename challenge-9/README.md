@@ -70,6 +70,8 @@ O uso é bem simples, o usuário irá escolher a quantidade de caracteres que el
 
 😎 [Pablo Danilo Mota](https://github.com/pablodanilomota/password-generator) - [Preview](https://password-generator-pablo.netlify.app/)
 
+😎 [Anderson Espindola](https://github.com/andersonespindola/password-generator) - [Preview](https://random-password-creator.netlify.app/)
+
 ---
 
 É meus _devzeras_ aqui chegamos ao final de mais um _challenge_, espero que possamos aprender coisas novas com esse desafio e o melhor de tudo, compartilhar e trocar experiências. Nos vemos na entrega do desafio para ver a solução dos _devs_ e discutir os resultados.
