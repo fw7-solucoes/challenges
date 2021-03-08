@@ -68,7 +68,7 @@ O uso é bem simples, o usuário irá escolher a quantidade de caracteres que el
 
 😎 [Antonio Marco da Silva](https://github.com/antomarsi/challenges/tree/feat/antonio/challenge-9) - [Preview](https://elegant-ardinghelli-de73fe.netlify.app/)
 
-😎 [Pablo Danilo Mota](https://github.com/pablodanilomota/password-generator) - [Preview-vanilla](https://password-generator-pablo.netlify.app/) | [Preview-react](https://password-generator-react-app.netlify.app/)
+😎 [Pablo Danilo Mota](https://github.com/pablodanilomota/password-generator-react) - [Preview-vanilla](https://password-generator-pablo.netlify.app/) | [Preview-react](https://password-generator-react-app.netlify.app/)
 
 😎 [Anderson Espindola](https://github.com/andersonespindola/password-generator) - [Preview](https://random-password-creator.netlify.app/)
 
