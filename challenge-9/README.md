@@ -74,6 +74,8 @@ O uso é bem simples, o usuário irá escolher a quantidade de caracteres que el
 
 😎 [Mateus Varela](https://github.com/mateusVarela/challenge-9) - [Preview](https://password-generator-varela.netlify.app/)
 
+😎 [Amilton Machado](https://github.com/amiltoncm/challenge9) - [Preview](https://challenge-nine.herokuapp.com/)
+
 ---
 
 É meus _devzeras_ aqui chegamos ao final de mais um _challenge_, espero que possamos aprender coisas novas com esse desafio e o melhor de tudo, compartilhar e trocar experiências. Nos vemos na entrega do desafio para ver a solução dos _devs_ e discutir os resultados.
