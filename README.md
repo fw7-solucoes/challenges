@@ -12,4 +12,4 @@ O **FW7 challenges** foi uma iniciativa criada pela equipe de desenvolvimento da
 
 ## Desafio atual
 
-[Challenge 9](./challenge-9)
+[Challenge 10](./challenge-10)
