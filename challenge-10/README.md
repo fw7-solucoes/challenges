@@ -66,7 +66,7 @@ O uso é bem simples, sempre que o usuário apertar o botão deve ser gerado uma
 
 ## 🤯 Solução dos devs
 
-Aguardando...
+😎 [Antonio Marco da Silva](https://github.com/antomarsi/ball-bouncer-challenge-10) - [Preview](https://stoic-torvalds-5ff660.netlify.app/)
 
 ---
 
