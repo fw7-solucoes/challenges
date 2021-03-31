@@ -72,6 +72,8 @@ O uso é bem simples, sempre que o usuário apertar o botão deve ser gerado uma
 
 😎 [Amilton Machado](https://github.com/amiltoncm/challenge10) - [Preview](https://challenge10.herokuapp.com/)
 
+😎 [Mateus Varela](https://github.com/mateusVarela/ball_animation) - [Preview](https://ball-animation-mateus.netlify.app/)
+
 ---
 
 Fechouuu meus gurizão, temos mais um _Challenge_ paulera, aguardando ansioso para ver os resultados.
