@@ -76,7 +76,7 @@ O uso é bem simples, sempre que o usuário apertar o botão deve ser gerado uma
 
 😎 [Mateus Varela](https://github.com/mateusVarela/ball_animation) - [Preview](https://ball-animation-mateus.netlify.app/)
 
-😎 [Anderson Espindola](https://github.com/andersonespindola/turbo-balls) - [Preview](turbo-balls.surge.sh)
+😎 [Anderson Espindola](https://github.com/andersonespindola/turbo-balls) - [Preview](http://turbo-balls.surge.sh/)
 
 😎 [Pablo Danilo Mota](https://github.com/pablodanilomota/comet-launcher) - [Preview](https://comet-launcher.netlify.app/)
 
