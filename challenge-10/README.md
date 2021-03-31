@@ -76,6 +76,8 @@ O uso é bem simples, sempre que o usuário apertar o botão deve ser gerado uma
 
 😎 [Anderson Espindola](https://github.com/andersonespindola/turbo-balls) - [Preview](turbo-balls.surge.sh)
 
+😎 [Pablo Danilo Mota](https://github.com/pablodanilomota/comet-launcher) - [Preview](https://comet-launcher.netlify.app/)
+
 ---
 
 Fechouuu meus gurizão, temos mais um _Challenge_ paulera, aguardando ansioso para ver os resultados.
