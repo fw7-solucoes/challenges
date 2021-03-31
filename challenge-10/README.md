@@ -66,6 +66,8 @@ O uso é bem simples, sempre que o usuário apertar o botão deve ser gerado uma
 
 ## 🤯 Solução dos devs
 
+😎 [Antonio Marco da Silva](https://github.com/antomarsi/ball-bouncer-challenge-10) - [Preview](https://stoic-torvalds-5ff660.netlify.app/)
+
 😎 [Roberto Umbelino](https://github.com/robertoumbelino/element-randomizer/) - [Preview](https://element-randomizer.netlify.app/)
 
 😎 [William Koerich](https://github.com/William-Koerich/Space-Balls) - [Preview](https://space-balls.netlify.app/)
