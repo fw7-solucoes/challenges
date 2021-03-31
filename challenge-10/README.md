@@ -66,7 +66,7 @@ O uso é bem simples, sempre que o usuário apertar o botão deve ser gerado uma
 
 ## 🤯 Solução dos devs
 
-Aguardando...
+😎 [Roberto Umbelino](https://github.com/robertoumbelino/element-randomizer/) - [Preview](https://element-randomizer.netlify.app/)
 
 ---
 
