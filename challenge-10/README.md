@@ -68,6 +68,18 @@ O uso é bem simples, sempre que o usuário apertar o botão deve ser gerado uma
 
 😎 [Antonio Marco da Silva](https://github.com/antomarsi/ball-bouncer-challenge-10) - [Preview](https://stoic-torvalds-5ff660.netlify.app/)
 
+😎 [Roberto Umbelino](https://github.com/robertoumbelino/element-randomizer/) - [Preview](https://element-randomizer.netlify.app/)
+
+😎 [William Koerich](https://github.com/William-Koerich/Space-Balls) - [Preview](https://space-balls.netlify.app/)
+
+😎 [Amilton Machado](https://github.com/amiltoncm/challenge10) - [Preview](https://challenge10.herokuapp.com/)
+
+😎 [Mateus Varela](https://github.com/mateusVarela/ball_animation) - [Preview](https://ball-animation-mateus.netlify.app/)
+
+😎 [Anderson Espindola](https://github.com/andersonespindola/turbo-balls) - [Preview](turbo-balls.surge.sh)
+
+😎 [Pablo Danilo Mota](https://github.com/pablodanilomota/comet-launcher) - [Preview](https://comet-launcher.netlify.app/)
+
 ---
 
 Fechouuu meus gurizão, temos mais um _Challenge_ paulera, aguardando ansioso para ver os resultados.
