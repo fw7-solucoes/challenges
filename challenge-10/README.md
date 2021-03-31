@@ -70,6 +70,8 @@ O uso é bem simples, sempre que o usuário apertar o botão deve ser gerado uma
 
 😎 [William Koerich](https://github.com/William-Koerich/Space-Balls) - [Preview](https://space-balls.netlify.app/)
 
+😎 [Amilton Machado](https://github.com/amiltoncm/challenge10) - [Preview](https://challenge10.herokuapp.com/)
+
 ---
 
 Fechouuu meus gurizão, temos mais um _Challenge_ paulera, aguardando ansioso para ver os resultados.
