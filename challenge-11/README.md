@@ -20,7 +20,7 @@ Demoro, bora ver qual será o _Challenge_.
 
 - Cada participante irá fazer a sua versão e publicar em seu _github_, no final do _challenge_ será "recolhido" todos os respositórios e anexados neste **doc**.
 
-- Para participantes **externos** deve ser aperto um **PR** para marcar seu nome e repositório aqui na **Solução dos devs** desse documento.
+- Para participantes **externos** deve ser aberto um **PR** para marcar seu nome e repositório aqui na **Solução dos devs** desse documento.
 
 - Será escolhido pelos participantes a melhor solução e o resultado será publicado aqui mesmo.
 
