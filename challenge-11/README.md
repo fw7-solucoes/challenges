@@ -59,7 +59,9 @@ Então jovens, é isso aí. 🤩
 
 ## 🤯 Solução dos devs
 
-Aguardando...
+
+😎 [Pablo Danilo Mota](https://github.com/pablodanilomota/keyboard) - [Preview](https://keyboard-hero-react.netlify.app/)
+
 
 ---
 
