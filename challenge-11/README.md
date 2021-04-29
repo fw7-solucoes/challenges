@@ -59,19 +59,21 @@ Então jovens, é isso aí. 🤩
 
 ## 🤯 Solução dos devs
 
+Melhor solução escolhido pela galera.
 
-😎 [Pablo Danilo Mota](https://github.com/pablodanilomota/keyboard) - [Preview](https://keyboard-hero-react.netlify.app/)
+1º 🏆 [Roberto Umbelino](https://github.com/robertoumbelino/keyboard-hero) - [Preview](https://keyboard-hero.netlify.app/)
+
+2º 🏅 [Anderson Espindola](https://github.com/andersonespindola/keyboard-hero-front) - [Preview](https://fast-keyboard-challenge.vercel.app/)
+
+3º 🏅 [Pablo Danilo Mota](https://github.com/pablodanilomota/keyboard) - [Preview](https://keyboard-hero-react.netlify.app/)
+
+---
 
 😎 [Amilton Machado](https://github.com/amiltoncm/challenge11) - [Preview](https://challenge-eleven.herokuapp.com/)
 
-😎 [Roberto Umbelino](https://github.com/robertoumbelino/keyboard-hero) - [Preview](https://keyboard-hero.netlify.app/)
-
 😎 [William Koerich](https://github.com/William-Koerich/Keyboard-Hell) - [Preview](https://falling-letters-to-hell.netlify.app/)
 
-😎 [Anderson Espindola](https://github.com/andersonespindola/keyboard-hero-front) - [Preview](https://fast-keyboard-challenge.vercel.app/)
-
 😎 [Mateus Varela](https://github.com/mateusVarela/keyboard-game) - [Preview](https://practical-archimedes-34108c.netlify.app)
-
 
 ---
 
