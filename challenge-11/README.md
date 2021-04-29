@@ -68,6 +68,8 @@ Então jovens, é isso aí. 🤩
 
 😎 [William Koerich](https://github.com/William-Koerich/Keyboard-Hell) - [Preview](https://falling-letters-to-hell.netlify.app/)
 
+😎 [Anderson Espindola](https://github.com/andersonespindola/keyboard-hero-front) - [Preview](https://fast-keyboard-challenge.vercel.app/)
+
 
 ---
 
