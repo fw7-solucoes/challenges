@@ -47,14 +47,14 @@ Fechou meus queridos, esse é o desafio, agora vamos ver todos os requisitos. �
 - Deve haver uma rota para minificar a URL.
 - Deve haver uma rota para consultar a URL original através da URL minificada (Já é possível realizar o redirecionamento aqui 😉)
 - Deve realizar a publicação da API em algum serviço de hospedagem. (Heroku é uma boa)
-- Deve haver um **Frondend** para que seja possível o usuário informar a URL.
+- Deve haver um **Frontend** para que seja possível o usuário informar a URL.
 - Deve realizar a publicação da interface em algum serviço de hospedagem. (Vercel é uma boa)
 
 ---
 
 ## 🔒 Regras
 
-- Deve ser utilizado Node, Typescript, Testes automatiados no **Backend**.
+- Deve ser utilizado Node, Typescript, Testes automatizados no **Backend**.
 
 - Deve ser utilizado React, Typescript no **Frontend**
 
