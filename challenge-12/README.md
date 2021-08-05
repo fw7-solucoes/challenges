@@ -66,7 +66,7 @@ Fechou meus queridos, esse é o desafio, agora vamos ver todos os requisitos. �
 
 ## 🤯 Solução dos devs
 
-Aguardando...
+[Anderson Espindola](https://github.com/andersonespindola) - [Front-end](https://github.com/andersonespindola/short-url-front) - [Back-end](https://github.com/andersonespindola/shortUrl) - [Preview](https://minis.vercel.app/)
 
 ---
 
