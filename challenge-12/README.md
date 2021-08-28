@@ -68,6 +68,8 @@ Fechou meus queridos, esse é o desafio, agora vamos ver todos os requisitos. �
 
 [Anderson Espindola](https://github.com/andersonespindola) - [Front-end](https://github.com/andersonespindola/short-url-front) - [Back-end](https://github.com/andersonespindola/shortUrl) - [Preview](https://minis.vercel.app/)
 
+[Pablo Danilo Mota](https://github.com/pablodanilomota) - [Front-end](https://github.com/pablodanilomota/schnittly-frontend) - [Back-end](https://github.com/pablodanilomota/schnittly-backend) - [Preview](https://sch-ly.netlify.app/)
+
 ---
 
 Enfim galera, esse é mais um _Challenge_ meus caros amigos, agora bora daler 😉.
