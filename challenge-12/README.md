@@ -70,6 +70,8 @@ Fechou meus queridos, esse é o desafio, agora vamos ver todos os requisitos. �
 
 [Pablo Danilo Mota](https://github.com/pablodanilomota) - [Front-end](https://github.com/pablodanilomota/schnittly-frontend) - [Back-end](https://github.com/pablodanilomota/schnittly-backend) - [Preview](https://sch-ly.netlify.app/)
 
+[Roberto Umbelino](https://shorteru.vercel.app/)
+
 ---
 
 Enfim galera, esse é mais um _Challenge_ meus caros amigos, agora bora daler 😉.
