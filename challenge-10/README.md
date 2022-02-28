@@ -84,6 +84,8 @@ Melhor solução escolhido pela galera.
 
 😎 [Pablo Danilo Mota](https://github.com/pablodanilomota/comet-launcher) - [Preview](https://comet-launcher.netlify.app/)
 
+😎 [Luiz Augusto](https://github.com/Luiz-Augusto-JR) - [Preview](https://fervent-mclean-67c366.netlify.app/)
+
 ---
 
 Fechouuu meus gurizão, temos mais um _Challenge_ paulera, aguardando ansioso para ver os resultados.
