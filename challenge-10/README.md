@@ -84,7 +84,7 @@ Melhor solução escolhido pela galera.
 
 😎 [Pablo Danilo Mota](https://github.com/pablodanilomota/comet-launcher) - [Preview](https://comet-launcher.netlify.app/)
 
-😎 [Luiz Augusto](https://github.com/Luiz-Augusto-JR) - [Preview](https://fervent-mclean-67c366.netlify.app/)
+😎 [Luiz Augusto](https://github.com/Luiz-Augusto-JR/Challenge-10-bolinha-fw7) - [Preview](https://fervent-mclean-67c366.netlify.app/)
 
 ---
 
