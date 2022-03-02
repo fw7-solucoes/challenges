@@ -75,6 +75,8 @@ Melhor solução escolhido pela galera.
 
 😎 [Mateus Varela](https://github.com/mateusVarela/keyboard-game) - [Preview](https://practical-archimedes-34108c.netlify.app)
 
+😎 [Luiz Augusto](https://github.com/Luiz-Augusto-JR/challenge-mini-game-master) - [Preview](https://zealous-visvesvaraya-fa43ff.netlify.app)
+                                                                                                                        
 ---
 
 Enfim mais um _Challenge_ meus bons, agora é aquela parte que vocês já sabem, daler no código 😉.
